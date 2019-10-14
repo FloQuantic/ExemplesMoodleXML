@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<name>
+		<text>Es-tu présent ?</text>
+	</name>
+ <answer fraction="100">
+    <text>Bonne réponse ! </text>
+    <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="0">
+    <text>Mauvaise réponse...</text>
+    <feedback><text>Ooops!</text></feedback>
+ </answer>
+</question>
